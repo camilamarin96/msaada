@@ -1,0 +1,157 @@
+{
+  "v": 3,
+  "attachments": {},
+  "boards": {
+    "About.dc.html": {
+      "expand": "fill",
+      "h": 4300,
+      "is_interactive": true,
+      "title": "2 · About us (incl. impact)",
+      "w": 1440,
+      "x": 1520,
+      "y": 1000,
+      "print": "flow",
+      "paper": "a4"
+    },
+    "Contact.dc.html": {
+      "expand": "fill",
+      "h": 2700,
+      "is_interactive": true,
+      "title": "6 · Contact & get involved",
+      "w": 1440,
+      "x": 7600,
+      "y": 1000,
+      "print": "flow",
+      "paper": "a4"
+    },
+    "Donate.dc.html": {
+      "expand": "fill",
+      "h": 2900,
+      "is_interactive": true,
+      "title": "4 · What Can You Donate?",
+      "w": 1440,
+      "x": 4560,
+      "y": 1000,
+      "print": "flow",
+      "paper": "a4"
+    },
+    "Footer.dc.html": {
+      "h": 560,
+      "is_interactive": true,
+      "title": "Component · Footer",
+      "w": 1440,
+      "x": 1520,
+      "y": 0
+    },
+    "Main.dc.html": {
+      "expand": "fill",
+      "h": 4700,
+      "is_interactive": true,
+      "title": "1 · Home",
+      "w": 1440,
+      "x": 0,
+      "y": 1000,
+      "print": "flow",
+      "paper": "a4"
+    },
+    "Nav.dc.html": {
+      "h": 96,
+      "is_interactive": true,
+      "title": "Component · Navigation",
+      "w": 1440,
+      "x": 0,
+      "y": 0
+    },
+    "Process.dc.html": {
+      "expand": "fill",
+      "h": 4200,
+      "is_interactive": true,
+      "title": "5 · Our Process",
+      "w": 1440,
+      "x": 6080,
+      "y": 1000,
+      "print": "flow",
+      "paper": "a4"
+    },
+    "Sessions.dc.html": {
+      "expand": "fill",
+      "h": 3300,
+      "is_interactive": true,
+      "title": "3 · Sessions",
+      "w": 1440,
+      "x": 3040,
+      "y": 1000,
+      "print": "flow",
+      "paper": "a4"
+    }
+  },
+  "createdOnFiles": {
+    "at": "2026-11-24T15:30:00Z",
+    "v": 1
+  },
+  "designSystems": [],
+  "launch": {
+    "view": "canvas"
+  },
+  "noteOrder": [
+    "t_comp",
+    "t_pages",
+    "s_ph",
+    "s_photo",
+    "s_launch"
+  ],
+  "notes": {
+    "s_launch": {
+      "fill": "blue",
+      "size": 24,
+      "text": "Launch switches\nAbout opens in its 'before content' version. When real figures, stories or the founding story exist, open the About artboard's Tweaks and turn on the matching switch (Launch content).",
+      "w": 460,
+      "x": 4140,
+      "y": -300
+    },
+    "s_ph": {
+      "fill": "green",
+      "size": 24,
+      "text": "Grey hatched boxes are photo placeholders — swap in real documentary photos. Text in [SQUARE BRACKETS] is an editable placeholder (contacts, dates, figures, names).",
+      "w": 420,
+      "x": 3040,
+      "y": -300
+    },
+    "s_photo": {
+      "fill": "orange",
+      "size": 24,
+      "text": "Photo brief\n• Real Msaada moments only, never stock: collections, sorting, the store, youth repair workshops.\n• Ask consent from everyone recognisable, and never show children's faces without a guardian's OK.\n• Show people doing, not receiving: hands repairing, teams loading the truck.\n• Daylight, natural colour, eye level.\n• Phone photos are fine; send the largest size.",
+      "w": 520,
+      "x": 3540,
+      "y": -300
+    },
+    "t_comp": {
+      "kind": "title1",
+      "maxW": 2960,
+      "text": "Shared components",
+      "w": 240,
+      "x": 0,
+      "y": -300
+    },
+    "t_pages": {
+      "kind": "title1",
+      "maxW": 8000,
+      "text": "Msaada website — six pages",
+      "w": 240,
+      "x": 0,
+      "y": 700
+    }
+  },
+  "order": [
+    "Main.dc.html",
+    "About.dc.html",
+    "Sessions.dc.html",
+    "Donate.dc.html",
+    "Process.dc.html",
+    "Contact.dc.html",
+    "Nav.dc.html",
+    "Footer.dc.html"
+  ],
+  "pages": [],
+  "title": "Msaada – Circular Community Support Initiative Website"
+}
